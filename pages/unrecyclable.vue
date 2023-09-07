@@ -3,7 +3,7 @@
     <div>
     You cannot recycle this object.
     </div>
-    <a href="/checker">Click here to recycle more stuff.</a>
+    <a href="/">Click here to return to home page.</a>
   </div>
 </template>
 
