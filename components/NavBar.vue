@@ -45,7 +45,7 @@ const navigation = [
   { name: 'Paper', href: '/paper' },
   { name: 'Metal', href: '/metal' },
   { name: 'Glass', href: '/glass' },
-  { name: 'Other', href: '/other' },
+  { name: 'Other', href: '/unrecyclable' },
 ]
 
 const mobileMenuOpen = ref(false)
